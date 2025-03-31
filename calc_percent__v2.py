@@ -2,7 +2,7 @@
 calc_score_percent.py
 
 take user input score, number questions, 
-calculate percentage 
+calculate percentage WITH VALIDATION
 
 by Matt Harrison
 date: 01/4/25
